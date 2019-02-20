@@ -29,6 +29,7 @@ body {
 .front {
   height: 150px;
   width: 150px;
+  background-size: contain;
 }
 
 .back,
